@@ -1,0 +1,36 @@
+h1 {
+    font-family: cursive;
+    color: pink;
+    text-align: center;
+    background-color: antiquewhite;
+    border: 10px solid;
+    border-radius: 30px;
+    border-color: pink;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: pink;
+    text-align: center;
+}
+img {
+    border: 5px solid;
+    border-color: pink;
+ margin-left: 500px;
+}
+h3 {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: plum;
+    text-align: center;
+}
+.navbar {
+    list-style: none;
+    justify-content: end
+
+}
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+color: plum;
+}
