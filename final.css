@@ -1,0 +1,58 @@
+h1 {
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+text-align: center;
+color: darkseagreen;
+margin-top: 0%;
+background-color: antiquewhite;
+border-radius: 50px;
+border: 10px solid;
+}
+h2 {
+    font-family: cursive;
+    text-align: center;
+    color: darkgreen;
+    margin-top: 0px;
+    padding: 5px;
+    border-radius: 50px;
+}
+h3{
+    background-color: antiquewhite;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: 10px solid;
+    color: darkseagreen;
+}
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    margin: 0px;
+}
+.navbar{
+    list-style: none;
+   justify-content: end;
+}
+.navbar a {
+    color: cadetblue;
+    text-decoration: none;
+}
+button {
+    border-radius: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4 {
+   margin-left: 200px;
+   margin-right: 200px;
+   background-color: antiquewhite;
+   border: 10px solid;
+   color: darkseagreen;
+}
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkseagreen;
+}
